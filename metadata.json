@@ -1,0 +1,6 @@
+{
+  "name": "FinFlow - Modern Expense Tracker & Financial Dashboard",
+  "description": "Sleek, dark-mode financial dashboard and expense tracker featuring real-time cash flow analytics, interactive visual breakdowns, and budget management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
